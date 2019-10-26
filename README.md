@@ -8,7 +8,9 @@ textfilewithallresult- result file containing final result
 hadoop-streaming- hadoop jar file to stream python
 
 Instructions:
-I used spark to clean my data 
+I used spark to clean my data which shoed in following repository
+https://github.com/starinfinity/Data-Analysis-Spark-
+you can use that cleaned file.
 
 Step 2 :run the mapper and reducer files in hadoop
 
