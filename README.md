@@ -1,5 +1,9 @@
-NYPD-Data-analysis
-Data Analysis using Map Reduce(Hadoop)
+Map-reduce
+
+Motor Vehicle Collision Data Analyses using Map Reduce(Hadoop) 
+
+Data:
+https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
 
 Files:
 map.py		- mapper function for processing in hadoop
